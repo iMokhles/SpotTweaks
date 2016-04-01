@@ -1,0 +1,11 @@
+Package: com.imokhles.SpotTweaks
+Name: SpotTweaks
+Depends: mobilesubstrate, am.theiostre.searchloader
+Architecture: iphoneos-arm
+Description: An awesome SpotLight tweak!
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
+Depiction: http://pixelfiredev.com/repo/depictions/?p=com.imokhles.spottweaks
+Version: 0.2.rc-7
+Installed-Size: 448
